@@ -13,9 +13,6 @@ The goal of this project is to build a recommendation system that suggests relev
   - user: User identifier who rated the courses.
   - item: Course identifier (corresponding to COURSE_ID in course_df).
   - rating: Rating given by the user to the course.
-*user_profile_df
-- user: Unique identifier for each user.
-- Database to Blockchain: Binary indicators or levels of interest indicating user preferences across various course topics.
 
 ## Methodology
 * Data Preprocessing
