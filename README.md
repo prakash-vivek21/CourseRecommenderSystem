@@ -45,8 +45,8 @@ The goal of this project is to build a recommendation system that suggests relev
 
 * Evaluation Metrics
 Models were evaluated using:
-- Accuracy: For classification models.
-- RMSE (Root Mean Squared Error): For regression models, measuring prediction error.
+  - Accuracy: For classification models.
+  - RMSE (Root Mean Squared Error): For regression models, measuring prediction error.
 
 * Python Libraries:
   - numpy
